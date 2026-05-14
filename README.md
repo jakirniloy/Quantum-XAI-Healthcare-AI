@@ -53,23 +53,20 @@ This repository supports an open-access systematic review examining **Quantum-En
 📦 Quantum-Enhanced-Explainable-Multimodal-Healthcare-AI/
 │
 ├── 📂 datasets/                    # Curated dataset references & metadata
-│   ├── eeg_neurophysiology.md      # TUH EEG, OpenNeuro, EEGDash
-│   ├── neurodegeneration.md        # ADNI, Human Connectome Project
-│   ├── icu_clinical.md             # MIMIC-IV, eICU, PhysioNet
-│   ├── cancer_genomics.md          # TCGA, TCIA
-│   ├── multimodal.md               # AI-READI, MultiMedBench
-│   └── medical_imaging.md          # Stanford AIMI, BraTS
+│   ├── datasets.docx     
+│  # ADNI, Human Connectome Project
+│    # MIMIC-IV, eICU, PhysioNet
+│   # TCGA, TCIA
+│  # AI-READI, MultiMedBench
+│    # Stanford AIMI, BraTS
 │
 ├── 📂 Docs/                        # Methodology, review protocol, notes
-│   ├── review_protocol.md
-│   ├── inclusion_exclusion.md
-│   └── taxonomy.md
+│   ├── review_protocol.docx
+│   
+│  
 │
 ├── 📂 Papers/                      # Annotated reference papers
-│   ├── quantum_models/
-│   ├── xai_methods/
-│   ├── multimodal_fusion/
-│   └── clinical_applications/
+│
 │
 ├── 📄 .gitattributes
 └── 📄 README.md
@@ -85,12 +82,12 @@ This repository supports an open-access systematic review examining **Quantum-En
 ┌─────────────────────────────────────────────────────────┐
 │         Quantum-Enhanced Healthcare AI                  │
 │                                                         │
-│   ┌──────────────┐  ┌──────────────┐  ┌─────────────┐  │
-│   │   Quantum    │  │  Explainable │  │  Multimodal │  │
-│   │  Computing   │◄─►     AI       │◄─►   Fusion    │  │
-│   │   (QML/VQC)  │  │ (XAI / SHAP) │  │(EEG+fMRI+  │  │
-│   └──────────────┘  └──────────────┘  │ Speech+Text)│  │
-│                                        └─────────────┘  │
+│   ┌──────────────┐  ┌──────────────┐  ┌─────────────┐   │
+│   │   Quantum    │  │  Explainable │  │  Multimodal │   │
+│   │  Computing   │◄─►     AI       │◄─►   Fusion    │   │
+│   │   (QML/VQC)  │  │ (XAI / SHAP) │  │(EEG+fMRI+   │   │
+│   └──────────────┘  └──────────────┘  │ Speech+Text)│   │
+│                                       └─────────────┘   │
 │                          ▼                              │
 │              Healthcare & Mental Health AI              │
 └─────────────────────────────────────────────────────────┘
