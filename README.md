@@ -201,7 +201,7 @@ ML Frameworks:      PyTorch, TensorFlow, Hugging Face (referenced in papers)
                   A Systematic Review},
   year         = {2026},
   institution  = {East West University, Bangladesh},
-  howpublished = {\url{https://github.com/YOUR_USERNAME/YOUR_REPO}},
+  howpublished = {\url{[[https://github.com/jakirniloy/Quantum-XAI-Healthcare-AI](https://github.com/jakirniloy/Quantum-XAI-Healthcare-AI)]}},
   note         = {Open-access systematic review, M.Sc. research contribution}
 }
 ```
